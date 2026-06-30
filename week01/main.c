@@ -8,8 +8,19 @@
 void parse_config(const uint8_t *config_packet, int16_t *high_threshold) {
     // HỌC VIÊN BẮT ĐẦU VIẾT CODE TỪ ĐÂY
 
+    // check if config_packet is null
+    if (!config_packet) {
+        *high_threshold = 0;
+        return;
+    }
+    
+    // check if high_threshold is null
+    if (!high_threshold) return;
 
-
+    // concatenate value
+    *high_threshold = (int16_t)(*config_packet | (*(config_packet + 1) << 8));
+    
+    return;
 
     // HỌC VIÊN KẾT THÚC VIẾT CODE
 }
@@ -18,9 +29,12 @@ void parse_config(const uint8_t *config_packet, int16_t *high_threshold) {
 
 int16_t read_temperature_reg(void *hw_sensor_reg) {
     // HỌC VIÊN BẮT ĐẦU VIẾT CODE TỪ ĐÂY
+    
+    // check if hw_sensor reg is null
+    if (!hw_sensor_reg) return 0;
 
-
-
+    // return volatile casted value
+    return *(volatile int16_t*)hw_sensor_reg;
 
     // HỌC VIÊN KẾT THÚC VIẾT CODE
 }
@@ -29,10 +43,19 @@ int16_t read_temperature_reg(void *hw_sensor_reg) {
 
 void control_output(uint8_t *control_reg, uint8_t fan_enable, uint8_t alarm_enable) {
     // HỌC VIÊN BẮT ĐẦU VIẾT CODE TỪ ĐÂY
+    
+    // check if control_reg if null
+    if (!control_reg) return;
 
+    // change bit 0 base on fan_enable
+    if (fan_enable) *control_reg |= (1 << 0);
+    else *control_reg &= ~(1 << 0);
+    
+    // change bit 1 base on alarm_enable
+    if (alarm_enable) *control_reg |= (1 << 1);
+    else *control_reg &= ~(1 << 1);
 
-
-
+    return;
     // HỌC VIÊN KẾT THÚC VIẾT CODE
 }
 
