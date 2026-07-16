@@ -1,0 +1,63 @@
+# Task 1.1
+- CMake: công cụ cấu hình build, người dùng sẽ cung cấp file đầu vào, cho biết các file đầu ra cần
+build và các cờ cần dùng khi build thông qua file CMakeLists.txt. CMake tạo ra kịch bản để Ninja
+có thể build.
+- Ninja: công cụ build. Ninja sẽ đọc kịch bản build.ninja do CMake cung cấp, gọi compiler để build
+dự án. Ninja build dự án theo kiểu song song và tăng dần. Lần đầu tiên, Ninja sẽ build tất cả các
+file .c cùng lúc. Những lần sau, Ninja sẽ chỉ build lại những file .c đã thay đổi.
+- Compiler: trình biên dịch, giúp biên dịch các file mã nguồn .c sang mã Assembly .s riêng biệt.
+Chúng ta dùng arm-none-eabi-gcc để biên dịch cho chip Arm thay vì dùng gcc thông thường để
+biên dịch cho hệ điều hành máy tính.
+- STM32_Programmer_CLI: giao tiếp với STM32 qua SWD, giúp nạp code vào chip.
+
+
+# Task 1.2
+Đầu tiên ta sẽ chạy CMake để cấu hình build, CMake tạo ra kịch bản build trong file build.ninja.
+Lúc này Ninja sẽ đọc file build.ninja và build toàn bộ dự án. Trong quá trình build, Ninja gọi
+arm-none-eabi-gcc làm cross-compiler để biên dịch cho chip Arm, sinh ra các file .o, sau đó link các file
+.o thành các file .hex/.bin/.elf. Sau khi build xong, ta flash mã máy (.hex/.bin/.elf) vào chip thông qua
+STM32_Programmer_CLI với giao thức SWD.
+
+
+# Task 2.1
+Ta cần sử dụng Linker vì các file .o riêng biệt không biết vùng nhớ cụ thể khi nạp vào chip, Linker
+giúp cung cấp địa chỉ ô nhớ tuyệt đối trên chip. Linker còn giúp kết nối các hàm được gọi giữa các file
+code, vì ở file .o các hàm này chỉ được để trống vùng nhớ, Linker làm nhiệm vụ relocate để cụ thể hóa
+nội dung hàm.
+File .bin là file đã chứa toàn bộ mã máy, dữ liệu thô và được sắp xếp tuần tự đúng kiến trúc bộ nhớ của
+chip và có thể nạp vào để chạy. Trong khi đó file .o là file được biên dịch thẳng từ các file source code,
+chứa các thông tin rời rạc cần được sắp xếp lại đúng kiến trúc bộ nhớ, nên chưa thể nạp vào chip.
+
+
+# Task 2.2
+Tính năng build tăng dần của Ninja giúp tiết kiệm thời gian build vì công cụ chỉ biên dịch lại những
+file đã thay đổi, không đụng vào những file không thay đổi so với phiên bản build trước. Vì vậy compiler
+không tốn thời gian làm lại những việc đã làm.
+Ninja dựa vào dấu thời gian để nhận biết file nào cần biên dịch lại. Sau khi mỗi file .o được build, dấu
+thời gian tương ứng của nó sẽ được lưu lại. Sau này nếu Ninja kiểm tra và thấy file .c thay đổi sau khi
+file .o được build, nó sẽ tiến hành biên dịch lại file đó. Những file .c và .o có dấu thời gian khớp nhau sẽ
+không cần biên dịch lại.
+
+
+# Task 3.1
+LMA là nơi chưa các giá trị khởi tạo của biến toàn cục, VMA là nơi biến toàn cục được lưu và cập nhật suốt
+quá trình chạy. LMA nằm trong Flash còn VMA nằm trong RAM.
+Phân vùng này phải có hai địa chỉ. Các giá trị khởi tạo cần được lưu cố định trong Flash để mỗi khi
+reset, các biến sẽ về đúng giá trị mà ta gán cho nó ngay khi vừa vào hàm main(), do đó phải có LMA.
+Đồng thời, các biến cần được cập nhật xuyên suốt quá trình chạy, nên nó cần được lưu trong RAM, từ đó
+phải có VMA.
+
+
+# Task 3.2
+Nếu khi Reset mà hàm khởi tạo hệ thống quên sao chép dữ liệu từ ‘_sidata‘ đến ‘_sdata‘, các biến
+toàn cục sẽ nhận giá trị ban đầu ngẫu nhiên, có thể là dữ liệu rác hoặc giá trị từ lần chạy trước đó. Từ
+đó dẫn đến undefined behavior, có thể gây lỗi nghiêm trọng cho hệ thống.
+
+
+# Task 4.1
+cmake -B build -G Ninja
+
+
+# Task 4.2
+ninja -C build
+
