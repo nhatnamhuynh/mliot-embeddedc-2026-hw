@@ -1,0 +1,20 @@
+# Task 1.1
+Với chân GPIO Output ở chế độ Push-Pull:
+- Mức logic 1: PMOS đóng, NMOS ngắt
+- Mức logic 0: PMOS ngắt, NMOS đóng
+
+
+# Task 1.2
+Ta cần cấu hình một chân ở chế độ 'Pull-up' khi chân đó cần kích hoạt ở mức thấp (logic 0/ACTIVE LOW).
+Khi đó, cấu hình Pull-up giữ cho chân ở trạng thái logic 1 khi không hoạt động.
+Nếu chân Input không kết nối vào điện trở kéo lên/kéo xuống nào, thanh ghi dữ liệu đầu vào
+sẽ đọc dữ liệu ngẫu nhiên giữa 0 và 1, không kiểm soát được.
+
+
+# Task 2
+Do tốc độ xung nhịp cao và số lượng ngoại vi tích hợp lớn, nhà sản xuất mặc định tắt toàn bộ
+ngoại vi khi vừa reset chip để tiết kiệm năng lượng, hạn chế chip sinh nhiều nhiệt.
+Để dùng được chân GPIO, ta buộc phải bật Clock cho chân đó. Nếu không, chân GPIO sẽ bị đóng băng,
+không cập nhật được vì không có tín hiệu Clock.
+
+
