@@ -49,10 +49,10 @@ cmake_ninja_workdir = C$:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/build/
 
 build cmake_object_order_depends_target_button_matrix: phony || .
 
-build CMakeFiles/button_matrix.dir/led_toggle.c.obj: C_COMPILER__button_matrix_unscanned_Debug C$:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/led_toggle.c || cmake_object_order_depends_target_button_matrix
+build CMakeFiles/button_matrix.dir/button_matrix.c.obj: C_COMPILER__button_matrix_unscanned_Debug C$:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/button_matrix.c || cmake_object_order_depends_target_button_matrix
   CONFIG = Debug
   DEFINES = -DDEBUG -DHSI_VALUE=8000000 -DSTM32F103xB
-  DEP_FILE = CMakeFiles\button_matrix.dir\led_toggle.c.obj.d
+  DEP_FILE = CMakeFiles\button_matrix.dir\button_matrix.c.obj.d
   FLAGS = -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11
   INCLUDES = -IC:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04 -IC:/Users/NAM/HCMUT/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc -IC:/Users/NAM/HCMUT/STM32CubeF1/Drivers/CMSIS/Device/ST/STM32F1xx/Include -IC:/Users/NAM/HCMUT/STM32CubeF1/Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\button_matrix.dir
@@ -129,7 +129,7 @@ build CMakeFiles/button_matrix.dir/stm32f1xx_hal_cortex.c.obj: C_COMPILER__butto
 #############################################
 # Link the executable button_matrix.elf
 
-build button_matrix.elf: C_EXECUTABLE_LINKER__button_matrix_Debug CMakeFiles/button_matrix.dir/led_toggle.c.obj CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj CMakeFiles/button_matrix.dir/stm32f1xx_hal_gpio.c.obj CMakeFiles/button_matrix.dir/startup_stm32f103xb.s.obj CMakeFiles/button_matrix.dir/system_stm32f1xx.c.obj CMakeFiles/button_matrix.dir/stm32f1xx_hal_cortex.c.obj
+build button_matrix.elf: C_EXECUTABLE_LINKER__button_matrix_Debug CMakeFiles/button_matrix.dir/button_matrix.c.obj CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj CMakeFiles/button_matrix.dir/stm32f1xx_hal_gpio.c.obj CMakeFiles/button_matrix.dir/startup_stm32f103xb.s.obj CMakeFiles/button_matrix.dir/system_stm32f1xx.c.obj CMakeFiles/button_matrix.dir/stm32f1xx_hal_cortex.c.obj
   CONFIG = Debug
   FLAGS = -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3
   LINK_FLAGS = -mcpu=cortex-m3  -T "C:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/STM32F103XX_FLASH.ld" --specs=nano.specs -Wl,-Map=button_matrix.map -Wl,--gc-sections -Wl,--start-group -lc -lm -Wl,--end-group -Wl,--print-memory-usage

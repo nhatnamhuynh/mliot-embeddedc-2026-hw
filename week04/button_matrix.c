@@ -4,8 +4,8 @@
 uint16_t LED_PINS[4] = {GPIO_PIN_1, GPIO_PIN_2, GPIO_PIN_3, GPIO_PIN_4};
 
 #define KEYPAD_PORT GPIOB
-uint16_t ROW_PINS[2] = {GPIO_PIN_0, GPIO_PIN_1};
-uint16_t COL_PINS[2] = {GPIO_PIN_2, GPIO_PIN_3};
+uint16_t ROW_PINS[2] = {GPIO_PIN_5, GPIO_PIN_6};
+uint16_t COL_PINS[2] = {GPIO_PIN_7, GPIO_PIN_8};
 
 uint8_t KEYPAD_2x2_Scan(){
     for (uint8_t r = 0; r < 2; r++){
