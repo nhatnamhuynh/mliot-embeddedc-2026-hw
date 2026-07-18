@@ -18,3 +18,6 @@ ngoại vi khi vừa reset chip để tiết kiệm năng lượng, hạn chế 
 không cập nhật được vì không có tín hiệu Clock.
 
 
+# Task 5
+- Cách đấu nối: Cách 2 - Điều khiển qua Firmware
+- Link video demo: https://drive.google.com/file/d/19he8I4ptbJ8MPTpG8CHxC-CHtGXSChuR/view?usp=sharing

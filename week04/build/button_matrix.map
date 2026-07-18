@@ -268,60 +268,60 @@ Discarded input sections
  .debug_frame   0x00000000       0x2c C:/PROGRA~2/ARMGNU~1/14EFD8~1.2RE/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libc_nano.a(libc_a-sbrkr.o)
  .ARM.attributes
                 0x00000000       0x2d C:/PROGRA~2/ARMGNU~1/14EFD8~1.2RE/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libc_nano.a(libc_a-sbrkr.o)
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .group         0x00000000        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .text          0x00000000        0x0 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .data          0x00000000        0x0 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .bss           0x00000000        0x0 CMakeFiles/button_matrix.dir/button_matrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .group         0x00000000        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .text          0x00000000        0x0 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .data          0x00000000        0x0 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
  .group         0x00000000        0xc CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj
  .group         0x00000000        0xc CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj
  .group         0x00000000        0xc CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj
@@ -793,7 +793,7 @@ START GROUP
 LOAD C:/PROGRA~2/ARMGNU~1/14EFD8~1.2RE/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libc_nano.a
 LOAD C:/PROGRA~2/ARMGNU~1/14EFD8~1.2RE/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libm.a
 END GROUP
-LOAD CMakeFiles/button_matrix.dir/button_matrix.c.obj
+LOAD CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
 LOAD CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj
 LOAD CMakeFiles/button_matrix.dir/stm32f1xx_hal_gpio.c.obj
 LOAD CMakeFiles/button_matrix.dir/startup_stm32f103xb.s.obj
@@ -837,14 +837,14 @@ LOAD C:/PROGRA~2/ARMGNU~1/14EFD8~1.2RE/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb
                 0x08000198       0x48 C:/PROGRA~2/ARMGNU~1/14EFD8~1.2RE/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libc_nano.a(libc_a-init.o)
                 0x08000198                __libc_init_array
  .text.KEYPAD_2x2_Scan
-                0x080001e0       0xd4 CMakeFiles/button_matrix.dir/button_matrix.c.obj
+                0x080001e0       0xd4 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
                 0x080001e0                KEYPAD_2x2_Scan
  .text.GPIO_Init
-                0x080002b4      0x120 CMakeFiles/button_matrix.dir/button_matrix.c.obj
+                0x080002b4      0x120 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
  .text.SysTick_Handler
-                0x080003d4        0xc CMakeFiles/button_matrix.dir/button_matrix.c.obj
+                0x080003d4        0xc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
                 0x080003d4                SysTick_Handler
- .text.main     0x080003e0       0x38 CMakeFiles/button_matrix.dir/button_matrix.c.obj
+ .text.main     0x080003e0       0x38 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
                 0x080003e0                main
  .text.HAL_Init
                 0x08000418       0x2c CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj
@@ -1037,13 +1037,13 @@ LOAD C:/PROGRA~2/ARMGNU~1/14EFD8~1.2RE/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb
  *(.data)
  *(.data*)
  .data.LED_PINS
-                0x20000000        0x8 CMakeFiles/button_matrix.dir/button_matrix.c.obj
+                0x20000000        0x8 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
                 0x20000000                LED_PINS
  .data.ROW_PINS
-                0x20000008        0x4 CMakeFiles/button_matrix.dir/button_matrix.c.obj
+                0x20000008        0x4 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
                 0x20000008                ROW_PINS
  .data.COL_PINS
-                0x2000000c        0x4 CMakeFiles/button_matrix.dir/button_matrix.c.obj
+                0x2000000c        0x4 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
                 0x2000000c                COL_PINS
  .data.uwTickPrio
                 0x20000010        0x4 CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj
@@ -1118,7 +1118,7 @@ LOAD C:/PROGRA~2/ARMGNU~1/14EFD8~1.2RE/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb
  .ARM.attributes
                 0x0000004a       0x2d C:/PROGRA~2/ARMGNU~1/14EFD8~1.2RE/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libc_nano.a(libc_a-init.o)
  .ARM.attributes
-                0x00000077       0x2d CMakeFiles/button_matrix.dir/button_matrix.c.obj
+                0x00000077       0x2d CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
  .ARM.attributes
                 0x000000a4       0x2d CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj
  .ARM.attributes
@@ -1135,7 +1135,7 @@ LOAD C:/PROGRA~2/ARMGNU~1/14EFD8~1.2RE/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb
                 0x000001a6       0x1d C:/PROGRA~2/ARMGNU~1/14EFD8~1.2RE/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/crtn.o
 
 .comment        0x00000000       0x45
- .comment       0x00000000       0x45 CMakeFiles/button_matrix.dir/button_matrix.c.obj
+ .comment       0x00000000       0x45 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
                                  0x46 (size before relaxing)
  .comment       0x00000045       0x46 CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj
  .comment       0x00000045       0x46 CMakeFiles/button_matrix.dir/stm32f1xx_hal_gpio.c.obj
@@ -1144,14 +1144,14 @@ LOAD C:/PROGRA~2/ARMGNU~1/14EFD8~1.2RE/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb
 
 .debug_frame    0x00000000      0x9c0
  .debug_frame   0x00000000       0x2c C:/PROGRA~2/ARMGNU~1/14EFD8~1.2RE/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp\libc_nano.a(libc_a-init.o)
- .debug_frame   0x0000002c       0x94 CMakeFiles/button_matrix.dir/button_matrix.c.obj
+ .debug_frame   0x0000002c       0x94 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
  .debug_frame   0x000000c0      0x334 CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj
  .debug_frame   0x000003f4      0x14c CMakeFiles/button_matrix.dir/stm32f1xx_hal_gpio.c.obj
  .debug_frame   0x00000540       0x58 CMakeFiles/button_matrix.dir/system_stm32f1xx.c.obj
  .debug_frame   0x00000598      0x428 CMakeFiles/button_matrix.dir/stm32f1xx_hal_cortex.c.obj
 
 .debug_info     0x00000000     0x1d8c
- .debug_info    0x00000000      0x430 CMakeFiles/button_matrix.dir/button_matrix.c.obj
+ .debug_info    0x00000000      0x430 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
  .debug_info    0x00000430      0x6ee CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj
  .debug_info    0x00000b1e      0x59c CMakeFiles/button_matrix.dir/stm32f1xx_hal_gpio.c.obj
  .debug_info    0x000010ba       0x30 CMakeFiles/button_matrix.dir/startup_stm32f103xb.s.obj
@@ -1159,7 +1159,7 @@ LOAD C:/PROGRA~2/ARMGNU~1/14EFD8~1.2RE/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb
  .debug_info    0x00001305      0xa87 CMakeFiles/button_matrix.dir/stm32f1xx_hal_cortex.c.obj
 
 .debug_abbrev   0x00000000      0xa57
- .debug_abbrev  0x00000000      0x21e CMakeFiles/button_matrix.dir/button_matrix.c.obj
+ .debug_abbrev  0x00000000      0x21e CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
  .debug_abbrev  0x0000021e      0x214 CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj
  .debug_abbrev  0x00000432      0x1ca CMakeFiles/button_matrix.dir/stm32f1xx_hal_gpio.c.obj
  .debug_abbrev  0x000005fc       0x24 CMakeFiles/button_matrix.dir/startup_stm32f103xb.s.obj
@@ -1168,7 +1168,7 @@ LOAD C:/PROGRA~2/ARMGNU~1/14EFD8~1.2RE/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb
 
 .debug_aranges  0x00000000      0x2c0
  .debug_aranges
-                0x00000000       0x38 CMakeFiles/button_matrix.dir/button_matrix.c.obj
+                0x00000000       0x38 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
  .debug_aranges
                 0x00000038       0xe0 CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj
  .debug_aranges
@@ -1183,7 +1183,7 @@ LOAD C:/PROGRA~2/ARMGNU~1/14EFD8~1.2RE/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb
 .debug_rnglists
                 0x00000000      0x1f7
  .debug_rnglists
-                0x00000000       0x27 CMakeFiles/button_matrix.dir/button_matrix.c.obj
+                0x00000000       0x27 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
  .debug_rnglists
                 0x00000027       0xa3 CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj
  .debug_rnglists
@@ -1196,79 +1196,79 @@ LOAD C:/PROGRA~2/ARMGNU~1/14EFD8~1.2RE/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb
                 0x0000013c       0xbb CMakeFiles/button_matrix.dir/stm32f1xx_hal_cortex.c.obj
 
 .debug_macro    0x00000000    0x1815f
- .debug_macro   0x00000000      0x2d3 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x000002d3      0xacc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00000d9f      0x2c7 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00001066       0x2e CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00001094       0x22 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x000010b6       0x22 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x000010d8       0x8e CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00001166       0x51 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x000011b7      0x103 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x000012ba       0x6a CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00001324      0x1df CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00001503       0x1c CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x0000151f       0x22 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00001541       0xbd CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x000015fe      0xd23 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00002321     0xe09e CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x000103bf       0x6d CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x0001042c     0x34a2 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x000138ce      0x190 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00013a5e       0x5c CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00013aba      0x5bc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00014076      0x289 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x000142ff      0x1cb CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x000144ca      0x10e CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x000145d8      0x1b2 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x0001478a       0x27 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x000147b1      0x136 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x000148e7      0x1bc CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00014aa3       0x34 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00014ad7       0x3c CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00014b13      0x408 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00014f1b       0x57 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00014f72      0x46a CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x000153dc      0x1b5 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00015591       0x22 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x000155b3       0x87 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x0001563a      0x240 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x0001587a      0x287 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00015b01       0x78 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00015b79      0x140 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00015cb9      0x1ef CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00015ea8       0xeb CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00015f93      0x217 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x000161aa      0x8ed CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00016a97      0x28e CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00016d25      0x217 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00016f3c      0x1a7 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x000170e3      0x2cd CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x000173b0       0x8d CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x0001743d       0xb7 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x000174f4      0x242 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_macro   0x00017736       0x83 CMakeFiles/button_matrix.dir/button_matrix.c.obj
+ .debug_macro   0x00000000      0x2d3 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x000002d3      0xacc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00000d9f      0x2c7 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00001066       0x2e CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00001094       0x22 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x000010b6       0x22 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x000010d8       0x8e CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00001166       0x51 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x000011b7      0x103 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x000012ba       0x6a CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00001324      0x1df CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00001503       0x1c CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x0000151f       0x22 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00001541       0xbd CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x000015fe      0xd23 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00002321     0xe09e CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x000103bf       0x6d CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x0001042c     0x34a2 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x000138ce      0x190 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00013a5e       0x5c CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00013aba      0x5bc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00014076      0x289 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x000142ff      0x1cb CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x000144ca      0x10e CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x000145d8      0x1b2 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x0001478a       0x27 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x000147b1      0x136 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x000148e7      0x1bc CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00014aa3       0x34 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00014ad7       0x3c CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00014b13      0x408 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00014f1b       0x57 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00014f72      0x46a CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x000153dc      0x1b5 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00015591       0x22 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x000155b3       0x87 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x0001563a      0x240 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x0001587a      0x287 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00015b01       0x78 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00015b79      0x140 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00015cb9      0x1ef CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00015ea8       0xeb CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00015f93      0x217 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x000161aa      0x8ed CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00016a97      0x28e CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00016d25      0x217 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00016f3c      0x1a7 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x000170e3      0x2cd CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x000173b0       0x8d CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x0001743d       0xb7 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x000174f4      0x242 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_macro   0x00017736       0x83 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
  .debug_macro   0x000177b9      0x2eb CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj
  .debug_macro   0x00017aa4      0x332 CMakeFiles/button_matrix.dir/stm32f1xx_hal_gpio.c.obj
  .debug_macro   0x00017dd6       0xc2 CMakeFiles/button_matrix.dir/system_stm32f1xx.c.obj
  .debug_macro   0x00017e98      0x2c7 CMakeFiles/button_matrix.dir/stm32f1xx_hal_cortex.c.obj
 
-.debug_line     0x00000000     0x2da4
- .debug_line    0x00000000      0x8d2 CMakeFiles/button_matrix.dir/button_matrix.c.obj
- .debug_line    0x000008d2      0xa41 CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj
- .debug_line    0x00001313      0xaa5 CMakeFiles/button_matrix.dir/stm32f1xx_hal_gpio.c.obj
- .debug_line    0x00001db8       0x78 CMakeFiles/button_matrix.dir/startup_stm32f103xb.s.obj
- .debug_line    0x00001e30      0x363 CMakeFiles/button_matrix.dir/system_stm32f1xx.c.obj
- .debug_line    0x00002193      0xc11 CMakeFiles/button_matrix.dir/stm32f1xx_hal_cortex.c.obj
+.debug_line     0x00000000     0x2da9
+ .debug_line    0x00000000      0x8d7 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+ .debug_line    0x000008d7      0xa41 CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj
+ .debug_line    0x00001318      0xaa5 CMakeFiles/button_matrix.dir/stm32f1xx_hal_gpio.c.obj
+ .debug_line    0x00001dbd       0x78 CMakeFiles/button_matrix.dir/startup_stm32f103xb.s.obj
+ .debug_line    0x00001e35      0x363 CMakeFiles/button_matrix.dir/system_stm32f1xx.c.obj
+ .debug_line    0x00002198      0xc11 CMakeFiles/button_matrix.dir/stm32f1xx_hal_cortex.c.obj
 
-.debug_str      0x00000000    0x9719f
- .debug_str     0x00000000    0x9719f CMakeFiles/button_matrix.dir/button_matrix.c.obj
-                              0x967d9 (size before relaxing)
- .debug_str     0x0009719f    0x96db0 CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj
- .debug_str     0x0009719f    0x96a10 CMakeFiles/button_matrix.dir/stm32f1xx_hal_gpio.c.obj
- .debug_str     0x0009719f       0x9c CMakeFiles/button_matrix.dir/startup_stm32f103xb.s.obj
- .debug_str     0x0009719f    0x54750 CMakeFiles/button_matrix.dir/system_stm32f1xx.c.obj
- .debug_str     0x0009719f    0x96d09 CMakeFiles/button_matrix.dir/stm32f1xx_hal_cortex.c.obj
+.debug_str      0x00000000    0x971a4
+ .debug_str     0x00000000    0x971a4 CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj
+                              0x967de (size before relaxing)
+ .debug_str     0x000971a4    0x96db0 CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj
+ .debug_str     0x000971a4    0x96a10 CMakeFiles/button_matrix.dir/stm32f1xx_hal_gpio.c.obj
+ .debug_str     0x000971a4       0x9c CMakeFiles/button_matrix.dir/startup_stm32f103xb.s.obj
+ .debug_str     0x000971a4    0x54750 CMakeFiles/button_matrix.dir/system_stm32f1xx.c.obj
+ .debug_str     0x000971a4    0x96d09 CMakeFiles/button_matrix.dir/stm32f1xx_hal_cortex.c.obj
 
 .debug_line_str
                 0x00000000       0x80

@@ -48,7 +48,7 @@ set(BAREMETAL_Include_Dirs
 
 # Baremetal application sources
 set(BAREMETAL_Application_Src
-    ${CMAKE_SOURCE_DIR}/button_matrix.c
+    ${CMAKE_SOURCE_DIR}/task5_buttonmatrix.c
     ${CMAKE_SOURCE_DIR}/stm32f1xx_hal.c
     ${CMAKE_SOURCE_DIR}/stm32f1xx_hal_gpio.c
     ${CMAKE_SOURCE_DIR}/startup_stm32f103xb.s

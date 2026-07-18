@@ -1,9 +1,9 @@
 [
 {
   "directory": "C:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/build",
-  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DHSI_VALUE=8000000 -DSTM32F103xB -IC:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04 -IC:/Users/NAM/HCMUT/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc -IC:/Users/NAM/HCMUT/STM32CubeF1/Drivers/CMSIS/Device/ST/STM32F1xx/Include -IC:/Users/NAM/HCMUT/STM32CubeF1/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\button_matrix.dir\\button_matrix.c.obj -c C:\\Users\\NAM\\HCMUT\\mliot-embeddedc-2026-hw\\week04\\button_matrix.c",
-  "file": "C:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/button_matrix.c",
-  "output": "C:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/build/CMakeFiles/button_matrix.dir/button_matrix.c.obj"
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DHSI_VALUE=8000000 -DSTM32F103xB -IC:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04 -IC:/Users/NAM/HCMUT/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc -IC:/Users/NAM/HCMUT/STM32CubeF1/Drivers/CMSIS/Device/ST/STM32F1xx/Include -IC:/Users/NAM/HCMUT/STM32CubeF1/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\button_matrix.dir\\task5_buttonmatrix.c.obj -c C:\\Users\\NAM\\HCMUT\\mliot-embeddedc-2026-hw\\week04\\task5_buttonmatrix.c",
+  "file": "C:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/task5_buttonmatrix.c",
+  "output": "C:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/build/CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj"
 },
 {
   "directory": "C:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/build",
