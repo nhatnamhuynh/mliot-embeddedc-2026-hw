@@ -1,0 +1,6 @@
+C:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/task5_buttonmatrix/build/CMakeFiles/task5_buttonmatrix.dir
+C:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/task5_buttonmatrix/build/CMakeFiles/edit_cache.dir
+C:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/task5_buttonmatrix/build/CMakeFiles/rebuild_cache.dir
+C:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/task5_buttonmatrix/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+C:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/task5_buttonmatrix/build/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/task5_buttonmatrix/build/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

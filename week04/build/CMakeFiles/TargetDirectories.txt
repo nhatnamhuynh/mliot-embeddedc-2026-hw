@@ -1,3 +1,0 @@
-C:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/build/CMakeFiles/button_matrix.dir
-C:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/build/CMakeFiles/edit_cache.dir
-C:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/build/CMakeFiles/rebuild_cache.dir

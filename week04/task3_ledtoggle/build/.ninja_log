@@ -1,0 +1,20 @@
+# ninja log v7
+98	199	8062384776719493	CMakeFiles/task3_ledtoggle.dir/startup_stm32f103xb.s.obj	18049ba6d3dd9667
+78	283	8062384776542671	CMakeFiles/task3_ledtoggle.dir/Core/Src/sysmem.c.obj	31c40217dfc06c10
+90	341	8062384776664329	CMakeFiles/task3_ledtoggle.dir/Core/Src/syscalls.c.obj	19831c3fe701fd1b
+65	396	8062384776382075	CMakeFiles/task3_ledtoggle.dir/Core/Src/stm32f1xx_hal_msp.c.obj	405072933dde25de
+48	406	8062384776255823	CMakeFiles/task3_ledtoggle.dir/Core/Src/stm32f1xx_it.c.obj	9badc5490f0e08a7
+32	411	8062384776067342	CMakeFiles/task3_ledtoggle.dir/Core/Src/main.c.obj	ecebb90905a6e6b8
+107	427	8062384776827963	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f1xx.c.obj	54e75616874ad0e4
+127	484	8062384777018608	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj	e18dbd81a669e79b
+145	486	8062384777208318	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj	56996ab5cb7f5ee8
+174	488	8062384777504744	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj	1d00397c3f4cc49d
+117	490	8062384776874534	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj	f6ab1cc5174e0d34
+136	496	8062384777121774	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj	202b551bb0dfe42
+200	509	8062384777757646	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj	b127591efa7b25f3
+166	519	8062384777421431	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj	2197abe485019b8a
+154	524	8062384777304831	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj	3793ed6276f7b971
+284	556	8062384778596797	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj	2195177fb0e7a4fb
+341	596	8062384779168138	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj	7528cb0a0a417756
+396	623	8062384779707252	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj	8a46583c0de738d6
+623	899	8062384781992766	task3_ledtoggle.elf	500e5f3756055fbd

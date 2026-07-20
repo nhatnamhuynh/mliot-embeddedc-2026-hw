@@ -1,0 +1,20 @@
+# ninja log v7
+63	227	8062399901656459	CMakeFiles/task5_buttonmatrix.dir/startup_stm32f103xb.s.obj	c6e82ac18a04181f
+46	241	8062399901488073	CMakeFiles/task5_buttonmatrix.dir/Core/Src/sysmem.c.obj	efe2a9f647a7c99
+53	271	8062399901563153	CMakeFiles/task5_buttonmatrix.dir/Core/Src/syscalls.c.obj	59e74088c6470077
+37	366	8062399901405708	CMakeFiles/task5_buttonmatrix.dir/Core/Src/stm32f1xx_hal_msp.c.obj	4b35f037e9a581b
+30	387	8062399901327757	CMakeFiles/task5_buttonmatrix.dir/Core/Src/stm32f1xx_it.c.obj	1204a222f34b2f47
+72	387	8062399901751016	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f1xx.c.obj	ce00b059916488e8
+20	404	8062399901221214	CMakeFiles/task5_buttonmatrix.dir/Core/Src/main.c.obj	ef11e8d842ea11ff
+81	410	8062399901833874	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj	291736f6f4c0e6f1
+89	414	8062399901904532	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj	f29c36f01036f6c0
+107	443	8062399902092546	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj	7b25d2c20e8922f4
+115	452	8062399902163131	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj	fb56a864207bded5
+97	473	8062399902008286	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj	e0b75bd6f1c1748e
+124	499	8062399902266030	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj	385abcd80d939386
+134	501	8062399902374520	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj	68f7fe0bfbb353d4
+228	538	8062399903308992	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj	8f88027f3f08fe15
+262	550	8062399903648056	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj	d27ad3282096960e
+272	581	8062399903744527	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj	eab599241b3a7eb
+366	587	8062399904686336	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj	ba8c6260331a8850
+587	847	8062399906898493	task5_buttonmatrix.elf	1872baa3d368d211

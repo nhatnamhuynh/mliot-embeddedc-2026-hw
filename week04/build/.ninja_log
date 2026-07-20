@@ -1,8 +1,0 @@
-# ninja log v7
-105	193	8060630416703246	CMakeFiles/button_matrix.dir/startup_stm32f103xb.s.obj	45fa926a835a63ae
-125	299	8060630416897373	CMakeFiles/button_matrix.dir/system_stm32f1xx.c.obj	ca096aa99993eb8a
-72	360	8060630416374391	CMakeFiles/button_matrix.dir/stm32f1xx_hal.c.obj	b8a0314a4898ee2c
-87	367	8060630416514791	CMakeFiles/button_matrix.dir/stm32f1xx_hal_gpio.c.obj	b375b0e4b5a9a929
-57	383	8060630416156291	CMakeFiles/button_matrix.dir/task5_buttonmatrix.c.obj	a901f4822a8be22c
-137	397	8060630417022126	CMakeFiles/button_matrix.dir/stm32f1xx_hal_cortex.c.obj	357efbcb9e1c05d8
-397	823	8060630419614284	button_matrix.elf	ff6860b3a8451e5e

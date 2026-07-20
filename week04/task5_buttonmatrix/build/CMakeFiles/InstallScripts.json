@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/task5_buttonmatrix/build/cmake_install.cmake",
+		"C:/Users/NAM/HCMUT/mliot-embeddedc-2026-hw/week04/task5_buttonmatrix/build/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
